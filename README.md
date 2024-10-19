@@ -1,18 +1,10 @@
-<h2 align="center">ᴀʙᴏᴜᴛ ᴍᴇ</h2>
-<p align="center">
-  Hi, I'm Dinesh, a full-stack developer passionate about creating applications that address real-world challenges. Currently, I specialize in web development and am also working with Ruby on Rails (RoR). I have completed projects in both areas and am eager to embrace new challenges. I am dedicated to leveraging technology to make a positive impact and continually seek opportunities for learning and personal growth.
+<h2 align="left">ᴀʙᴏᴜᴛ ᴍᴇ</h2>
+<p align="left">
+  Hi, I'm Dinesh, a full-stack developer passionate about creating applications that address real-world challenges. Currently, I specialize in web development and am also working with React Native. I have completed projects in both areas and am eager to embrace new challenges. I am dedicated to leveraging technology to make a positive impact and continually seek opportunities for learning and personal growth.
 </p>
 
-<h2 align="center">ꜱᴏᴄɪᴀʟꜱ</h2>
-<p align="center"> 
-    <a href="www.linkedin.com" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/dineshh._24/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/dinesh1124/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
-</p>
-
-
-<h2 align="center">ᴛᴇᴄʜɴᴏʟᴏɢɪᴄᴀʟ ꜱᴛᴀᴄᴋ</h2>
-<p align="center">
+<h2 align="left">ᴛᴇᴄʜɴᴏʟᴏɢɪᴄᴀʟ ꜱᴛᴀᴄᴋ</h2>
+<p align="left">
   <img alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -25,9 +17,17 @@
   <img alt="express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img alt="django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="spring boot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-  <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<!--   <img alt="docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white" /> -->
+<!--   <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"> -->
+<!--   <img alt="graphql" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"> -->
+</p>
+
+<h2 align="left">ꜱᴏᴄɪᴀʟꜱ</h2>
+<p align="left"> 
+  <a href="www.linkedin.com" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/dineshh._24/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/dinesh1124/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
 </p>
