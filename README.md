@@ -4,4 +4,4 @@
 - Full Stack Developer
 - Always learning new tech
 
-[Portfolio](https://kdinesh.vercel.app/)
+[Portfolio](https://k-dinesh.vercel.app/)
